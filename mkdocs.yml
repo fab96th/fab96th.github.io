@@ -1,8 +1,8 @@
 site_name: Fab的个人网站
+site_url: https://fab96th.github.io/
 site_author: Fab
 site_description: Fab的个人网站
-repo_url: https://github.com/fab96th
-repo_name: fab96th.github.io
+
 nav:
   - 我: 
     - ME/introduction.md
@@ -32,19 +32,6 @@ nav:
       - Book/Functional Analysis.md
       - Book/General Topology.md
       - Book/Analytic number theory.md
-# [UI]
-# [top]
-# [点击按钮跳转至 GitHub 修改 Markdown 源文件]
-# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
-edit_uri: edit/main/docs/
-# [top-right corner]
-# [添加 GitHub 仓库]
-# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-# [bottom-left corner]
-# [版权说明]
-# https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: Fab 
-# [bottom-right corner]
 theme:
   name: material
   # [切换日间模式和夜间模式]
@@ -95,6 +82,19 @@ theme:
     # [点击按钮跳转至 GitHub 修改 Markdown 源文件]
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
     - content.action.edit
+# [点击按钮跳转至 GitHub 修改 Markdown 源文件]
+# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
+edit_uri: edit/main/docs/
+# [top-right corner]
+# [添加 GitHub 仓库]
+# https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
+repo_url: https://github.com/fab96th/fab96th.github.io/
+repo_name: fab96th.github.io
+# [bottom-left corner]
+# [版权说明]
+# https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
+copyright: Fab CC-BY-4.0
+# [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
