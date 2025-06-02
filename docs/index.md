@@ -1,14 +1,17 @@
-# 你好
+# Welcome to MkDocs
 
-这里是Fab的个人网站 <https://github.com/fab96th>
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-- 通过主题和目录浏览文章。
-    - 电脑端：在上方标签栏选择主题，在左侧目录选择文章。
-    - 移动端：点击左上角图标选择主题和文章。
-- 搜索关键词查找文章。
+## Commands
 
----
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-## 个人信息
+## Project layout
 
-更多信息请查看 [个人介绍](./ME/introduction.md)
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
