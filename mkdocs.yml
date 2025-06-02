@@ -32,6 +32,8 @@ nav:
       - Book/Functional Analysis.md
       - Book/General Topology.md
       - Book/Analytic number theory.md
+  - 赞助:
+    - ME/support.md
 theme:
   name: material
   # [切换日间模式和夜间模式]
@@ -115,7 +117,7 @@ extra:
       link: https://www.zhihu.com/people/fabburn
     - name: 打赏支持
       icon: fontawesome/solid/mug-saucer
-      link: 
+      link: https://fab96th.github.io/ME/support/
 
 # [Extensions]
 plugins:
