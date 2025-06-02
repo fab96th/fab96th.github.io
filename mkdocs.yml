@@ -11,12 +11,13 @@ nav:
     - LaTeX/sjh.md
   - 专业书籍:
     - 大一:
-      - Book/math analysis.md
+      - Book/math analysis_12.md
       - Book/linear algebra.md
       - Book/Analytic geometry.md
     - 大二上:
       - Book/ode.md
       - Book/Probability Theory.md
+      - Book/math analysis_3.md
     - 大二下:
       - Book/math statistics.md
       - Book/complex analysis.md
