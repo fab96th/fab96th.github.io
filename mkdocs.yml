@@ -1,21 +1,24 @@
+# [Info]
+# 左上角标题
 site_name: Fab的个人网站
 site_url: https://fab96th.github.io/
 site_author: Fab
 site_description: Fab的个人网站
-
+# [Navigtion]
 nav:
   - 我: 
     - ME/introduction.md
     - ME/account.md
   - LaTeX:
     - LaTeX/sjh.md
+    - LaTeX/baogao.md
   - 专业书籍:
     - 大一:
-      - Book/math analysis_12.md
+      - Book/math analysis.md
       - Book/linear algebra.md
       - Book/Analytic geometry.md
     - 大二上:
-      - Book/math analysis_3.md
+      - Book/math analysis.md
       - Book/ode.md
       - Book/Probability Theory.md  
     - 大二下:
@@ -32,8 +35,22 @@ nav:
       - Book/Functional Analysis.md
       - Book/General Topology.md
       - Book/Analytic number theory.md
+  - 果茶喜好:
+      - Drink/mixue.md
+      - Drink/shanghai.md
+      - Drink/guming.md
+  - 音乐:
+      - 日文系列:
+        - Music/miku.md
+      - 中文系列:
+        - Music/luo.md
+  - 二次元:
+      - 百看不厌:
+        - ACG/super.md
   - 赞助:
     - ME/support.md
+# [UI]
+# [top]
 theme:
   name: material
   # [切换日间模式和夜间模式]

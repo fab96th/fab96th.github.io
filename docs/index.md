@@ -1,4 +1,4 @@
-# 你好
+# 你好 & Welcome
 
 这里是Fab的个人网站
 
@@ -11,4 +11,4 @@
 
 ## 个人信息
 
-更多信息请查看 [个人介绍](./ME/introduction.md)
+请查看 [个人介绍](./ME/introduction.md)
