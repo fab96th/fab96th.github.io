@@ -7,46 +7,53 @@ site_description: Fab的个人网站
 # [Navigtion]
 nav:
   - 我: 
+    - ME/index.md
     - ME/introduction.md
     - ME/account.md
   - LaTeX:
+    - LaTeX/index.md
     - LaTeX/sjh.md
     - LaTeX/baogao.md
   - 专业书籍:
+    - Book/index.md
     - 大一:
-      - Book/math analysis.md
-      - Book/linear algebra.md
-      - Book/Analytic geometry.md
+      - Book/Study/math analysis.md
+      - Book/Study/linear algebra.md
+      - Book/Study/Analytic geometry.md
     - 大二上:
-      - Book/math analysis.md
-      - Book/ode.md
-      - Book/Probability Theory.md  
+      - Book/Study/math analysis.md
+      - Book/Study/ode.md
+      - Book/Study/Probability Theory.md  
     - 大二下:
-      - Book/math statistics.md
-      - Book/complex analysis.md
-      - Book/real analysis.md
-      - Book/number theory.md 
-      - Book/numerical analysis.md
+      - Book/Study/math statistics.md
+      - Book/Study/complex analysis.md
+      - Book/Study/real analysis.md
+      - Book/Study/number theory.md 
+      - Book/Study/numerical analysis.md
     - 大三上:
-      - Book/Differential geometry.md
-      - Book/modern algebra.md
-      - Book/Combinatorial math.md
-      - Book/Fourier analysis.md
-      - Book/Functional Analysis.md
-      - Book/General Topology.md
-      - Book/Analytic number theory.md
+      - Book/Study/Differential geometry.md
+      - Book/Study/modern algebra.md
+      - Book/Study/Combinatorial math.md
+      - Book/Study/Fourier analysis.md
+      - Book/Study/Functional Analysis.md
+      - Book/Study/General Topology.md
+      - Book/Study/Analytic number theory.md
   - 果茶喜好:
+      - Drink/index.md
       - Drink/mixue.md
       - Drink/shanghai.md
       - Drink/guming.md
   - 音乐:
+      - Music/index.md
       - 日文系列:
         - Music/miku.md
       - 中文系列:
         - Music/luo.md
   - 二次元:
-      - 百看不厌:
-        - ACG/super.md
+      - ACG/index.md
+      - 动漫:
+           - ACG/super.md
+           - ACG/ok.md
   - 赞助:
     - ME/support.md
 # [UI]
