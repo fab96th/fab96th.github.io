@@ -188,6 +188,10 @@ markdown_extensions:
   # [Markdown footnote 语法支持]
   # https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - footnotes
+  - pymdownx.pathconverter:
+      base_path: 'fab96th.github.io' # 替换为你的 GitHub 仓库名
+      absolute: true                 # 关键：开启绝对路径转换
+      tags: 'a script img link object embed iframe' # 关键：确保 iframe 在列表中
 
 extra_javascript:
   # [数学公式支持]

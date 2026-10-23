@@ -1,3 +1,3 @@
 # 史济怀复变函数答案
 
-- [史济怀复变函数Latex版本](https://github.com/fab96th/fab96th.github.io/blob/main/Latex.pdf)
+- <iframe src="./media/Latex.pdf" width="100%" height="800px" style="border: 1px solid #ccc; overflow: auto;"></iframe>
